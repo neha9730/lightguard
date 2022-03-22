@@ -1,0 +1,65 @@
+https://www.qgistutorials.com/en/docs/running_qgis_jobs.html
+
+
+https://gis.stackexchange.com/questions/231702/using-pyqgis-in-standalone-scripts-without-crashing
+
+
+
+https://gis.stackexchange.com/questions/221528/change-crs-of-layer-using-pyqgis-without-saving-file-and-iterating-every-feature
+
+
+Link for the quantec presentation on BNK
+
+https://docplayer.org/27118651-Bedarfsgesteuerte-nachtkennzeichnung-bnk.html
+
+
+Link for the code of the demo leaflet geotiff
+
+view-source:https://stuartmatthews.github.io/leaflet-geotiff/
+
+
+Link for the different tif files
+
+https://github.com/GeoTIFF/georaster-layer-for-leaflet-example
+
+
+Link for the storing results of tranparent layers from a folder and storing in a folder
+
+https://gis.stackexchange.com/questions/287472/saving-multiple-raster-with-pyqgis
+
+
+Link for the viewshed analysis using x,y coordinates along with the radius
+
+https://gis.stackexchange.com/questions/207091/programmatically-performing-viewshed-on-points-from-a-shapefile 
+
+Differences between ArcQGIS and QGIS performance
+
+https://landscapearchaeology.org/2018/qgis-visibility-analysis-algorithm/
+
+
+Binary Viewshed, Horizon Viewshed, Depth below horizon
+
+https://www.zoran-cuckovic.from.hr/QGIS-visibility-analysis/help_qgis3.html
+
+Depth below horizon Diagram
+
+https://landscapearchaeology.org/2018/depth-below-horizon/
+
+
+Link for the Digital ELevation Model in GIS
+
+https://www.researchgate.net/profile/A-Balasubramanian/publication/319454004_DIGITAL_ELEVATION_MODEL_DEM_IN_GIS/links/59ab68fe0f7e9bdd114fbee7/DIGITAL-ELEVATION-MODEL-DEM-IN-GIS.pdf
+
+OCAS ppt
+
+https://windren.se/WW2011/12_OCAS_Vangen.pdf
+
+
+uninstalling qgis
+
+https://gis.stackexchange.com/questions/325254/install-qgis-3-4-with-grass-support-in-ubuntu-18-04
+
+
+
+
+

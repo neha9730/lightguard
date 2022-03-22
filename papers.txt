@@ -1,0 +1,190 @@
+1) Viewshed Analysis Research paper:
+
+https://www.researchgate.net/publication/302431369_Viewshed_Analysis
+
+
+2) Effiicient visibility analysis for massive observers  (Realted Work)
+
+https://pdf.sciencedirectassets.com/280203/1-s2.0-S1877050917X00100/1-s2.0-S1877050917311912/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjENj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIGQN7utjR4OVXxounWSRshvpHw8js0TWdxTj4Ee8qvtYAiEAuMPbyOPn0Oz7K7gMfH5jRsvIZEQ%2Bqc8apOPNcKqPiGYqgwQI0P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAEGgwwNTkwMDM1NDY4NjUiDIGTIzRkIKbWlgw%2BMirXA9t4DX4GjSj7Uvae6IpRAJETaPlgKHNBc858mpCuUnk6%2B0PirZyhyNRx4sGk8tU7425CKrAn1oG9Rl3ge%2FaBCzFUVIsIRKLNsE80w8y2%2F9ELII76mw0WwAIXDXiXRFXT4pCRI9h0YssQMdZNNs8d3gj0G7uKX9l4sQtNlJv41RxQfWfVvHna9IBdhTzoZH6DVV4vC6QL240QNiJDnyCUu%2BzS1NxTAP67NTR6Lv0UkNeNqp%2Fh3MtB4%2BetwKg4y3GZyNKlxLbqMs1AYmoUXdUrXIm4F6zLYU2aiCX7x0144pfvuQRezXde7tQyROp%2Fjy2U4W53wIT%2F9gqDgyjKDu2VAL0L%2F1OENF785JhG52O4%2Fm2o25VxvDrSMj9qgc9kbUMXY5oYF4D7cdyxU7X7d%2FHFD3Zivf%2F8HH24h44e%2FeHB09xFvInH%2FdNF%2BGnLyhl7xCxW52Ht0iiAuTLR9Nq%2BaYHGADj7dl2%2F7PVFB15KXSkFFfYNw4v%2Fa%2BoH78KgmOv4KkHln%2BCGNoBKzc2CQZliFLIHkxEfQwt2jM4TgWGba683FMTdJMh5Aa%2BM2Ww6Ak3m6s7WC2RwrzqTaF4jqGPQWYJkpwE%2FAeKZIMgq4vylT5UQUgpUvURdM%2FhqWTD0s%2BSHBjqlAaBCSEZxKnlvxVfy7b55bLpyY%2B4sI5IjLUbxaObNYnGuDT4726SybtbEFgAuvygv1hBDzAhq080WzdKGTwpoVbbXbbIlJVmDWZ7yv2vnQou2ek1aP%2F%2FDRXvH0ue6WYHjd6%2FF5qETHa2bKAefX0q3bCs3K0MqxY9VN9RfnPT5BFEOq%2FS%2FTz5ftNIWMT4QN%2Frcdl7rTDC%2Fl6x%2FEeX28BXK6f%2BPR2rZQA%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20210722T083830Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYUNZUNMPC%2F20210722%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=47061dc6bc71dbe0023186151e2a0f60ab566df568d8da35a86d12c737c98afb&hash=1c1e76820fd684cb6d38899133c646c37c30dd43741a7db722674b5177ff617e&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1877050917311912&tid=spdf-49a0a19a-a9cf-496d-87d6-88aa4abdb983&sid=df7c081e82240941bf1ac7f025ce7f2d6356gxrqb&type=client
+
+3) Comparision of Ground to AIr Visibility analysis Methods (Literature Review)
+
+https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=3758&context=etd
+
+4) Identifying viewshed : new approaches to visual impact assessment
+
+https://www.researchgate.net/publication/215151088_Identifying_Viewshed_New_Approaches_to_Visual_Impact_Assessment
+
+5) Landscape Visibility analysis and their visualization
+
+https://www.isprs.org/proceedings/XXXVIII/4-W13/ID_67.pdf
+
+6) EXPLORING  MULTIPLE  VIEWSHED  ANALYSIS  USING  TERRAIN 
+FEATURES AND OPTIMISATION TECHNIQUES
+
+https://core.ac.uk/download/pdf/1668904.pdf
+
+7) Fast Approximation of Visibility Dominance
+Using Topographic Features as Targets
+and the Associated Uncertainty
+
+https://www.asprs.org/wp-content/uploads/pers/2003journal/august/2003_aug_881-888.pdf
+
+
+8) Results Analysis
+
+https://ieeexplore.ieee.org/abstract/document/5980948?casa_token=JmOIwWNPymUAAAAA:NVCdYW5tFQ6owvnHFCWCbWfRfpSj5fxLprUjZW4Xrt2g88qrnIjw17IHVZSpHWMrA-rVCJME
+
+9) Advances viewshed analysis
+
+https://joss.theoj.org/papers/10.21105/joss.00032.pdf
+
+10) Thesis Paper
+
+https://etd.lib.metu.edu.tr/upload/12612843/index.pdf
+
+11) Efficient Viewshed Analysis as QGIS Plugin
+
+https://ieeexplore.ieee.org/abstract/document/9362730
+
+12) Extraction of topographical features
+
+https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.122.8658&rep=rep1&type=pdf
+
+13) Line of sight analyst
+
+https://www.researchgate.net/publication/326065594_Line_of_Sight_Analyst_ArcGIS_Python_Toolbox_for_visibility_analyses
+
+14) Visibility analysis for 3D urban Environment
+
+https://www.researchgate.net/publication/280737416_Visibility_Analysis_for_3D_Urban_Environments
+
+15) Visibilty analysis of oceanic blue space
+
+https://www.researchgate.net/publication/328150089_Visibility_analysis_of_oceanic_blue_space_using_digital_elevation_models
+
+16) The Use of Viewshed Analysis in creation of maps of potential visual exposure
+
+https://www.researchgate.net/publication/323005591_THE_USE_OF_VIEWSHED_ANALYSIS_IN_CREATION_OF_MAPS_OF_POTENTIAL_VISUAL_EXPOSURE
+
+17) Personalising the viewshed: Visibilty Analysis from the human perspective
+
+https://www.sciencedirect.com/science/article/abs/pii/S0143622815000879
+
+18) Viewshed analysis for improving the effectiveness of watchtowers
+
+https://benthamopen.com/contents/pdf/TOFSCIJ/TOFSCIJ-3-17.pdf
+
+19) Visual Impact Evaluation of Wind Farms: a Case Study of Choshi 
+City, Japan
+
+https://core.ac.uk/download/pdf/234677592.pdf
+
+20) RA570 Advanced GIS: Wind Farm Viewshed Analysis Using Spatial Analyst and 3D 
+Analys
+
+https://southpawmn.files.wordpress.com/2012/12/wind-viewshed.pdf
+
+21) Wind Turbine Visibility and Visual Impact Threshold Distances in Western Landscapes
+
+https://blmwyomingvisual.anl.gov/docs/WindVITD.pdf
+
+22) Beyond Viewshed Analysis: Extended Approaches to 
+Visibility Analysis in Energy Transition Landscapes
+
+https://gispoint.de/fileadmin/user_upload/paper_gis_open/DLA_2018/537642007.pdf
+
+23) On demand night marking systems ppt
+
+https://www.fachagentur-windenergie.de/fileadmin/files/Vortragsarchiv/FA_Wind_On-demand_night-time_marking__DFBEW_Roscher_02072020.pdf
+
+24) Visibility and viewshed algorithms in              
+an information system for              
+environmental management
+
+https://www.witpress.com/Secure/elibrary/papers/MIS04/MIS04012FU.pdf
+
+25) Viewsphere: A GIS-Based 3D Visibility Analysis for Urban Design Evaluation
+
+https://www.researchgate.net/publication/23541644_Viewsphere_A_GIS-Based_3D_Visibility_Analysis_for_Urban_Design_Evaluation
+
+26) Comparison of Ground-to-Air Visibility AnalysisMethods
+
+https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=3758&context=etd
+
+27) Chapter 14. VIEWSHEDS AND WATERSHEDS
+
+http://www.fresnostate.edu/csm/ees/documents/facstaff/wang/gis200/lecture-notes/gis/chap14.pdf
+
+28) AN APPLICATION OF CUMULATIVE VIEWSHED ANALYSIS TO
+A MEDIEVAL ARCHAEOLOGICAL STUDY: THE BEACON SYSTEM
+OF THE ISLE OF WIGHT, UNITED KINGDOM
+
+https://core.ac.uk/download/pdf/33150083.pdf
+
+29) EXPLORING  MULTIPLE  VIEWSHED  ANALYSIS  USING  TERRAIN 
+FEATURES AND OPTIMISATION TECHNIQUES
+
+https://core.ac.uk/download/pdf/1668904.pdf
+
+30) The Application of Viewshed Analysis in Greek Archaeological Landscape
+
+https://www.academia.edu/1516778/The_Application_of_Viewshed_Analysis_in_Greek_Archaeological_Landscape
+
+31) Application of modified method of viewshed analysis in radar sensor network planning on inland waterways
+
+https://ieeexplore.ieee.org/document/6233329
+
+32) An improved line-of-sight method for visibility
+analysis in 3D complex landscapes
+
+https://www.researchgate.net/publication/225121095_An_improved_line-of-sight_method_for_visibility_analysis_in_3D_complex_landscapes
+
+33) Optimization of LiDAR data line of sight 
+analysis in service-oriented architectures 
+using the OGC Web Processing Service 
+
+http://www.florianhillen.de/masterthesis.pdf
+
+34) Distributed Viewshed Analysis  ********
+
+https://publications.lib.chalmers.se/records/fulltext/238036/238036.pdf
+
+35) A data relocation approach for terrain surface analysis on  ********
+multi-GPU systems: a case study on the total viewshed problem
+
+https://arxiv.org/pdf/2003.02200.pdf
+
+36) Real-time visibility analysis and rapid viewshed calculation using a voxel-    *****
+based modelling approach 
+
+https://www.geos.ed.ac.uk/~gisteac/proceedingsonline/GISRUK2012/Papers/presentation-48.pdf
+
+37) GPU-based visualisation of
+viewshed from roads or
+areas in a 3D environment  *******
+
+https://liu.diva-portal.org/smash/get/diva2:954165/FULLTEXT01.pdf
+
+38) MPROVED VIEWSHED ANALYSIS ALGORITHMS FOR AVIONICS 
+APPLICATIONS 
+
+https://etd.lib.metu.edu.tr/upload/12623470/index.pdf
+
+39) Efficient Viewshed Computation Algorithms On GPUs and CPUs  ****
+
+https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=9677&context=etd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
